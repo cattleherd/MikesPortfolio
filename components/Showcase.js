@@ -35,7 +35,7 @@ const Showcase = () => {
           <ScrollAnimationWrapper className="flex w-full">
             <motion.div className=" w-full p-4" variants={scrollAnimation}>
                 <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
-                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1668023915/benny%20n%20beer/ep1_h2vqrl.mp4" type="video/mp4"></source>
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1668024030/benny%20n%20beer/ep2_n6w9bp.mp4" type="video/mp4"></source>
                 </video>
             </motion.div>
           </ScrollAnimationWrapper>
@@ -47,7 +47,7 @@ const Showcase = () => {
           <ScrollAnimationWrapper className="flex w-full">
             <motion.div className=" w-full p-4" variants={scrollAnimation}>
                 <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
-                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1668023915/benny%20n%20beer/ep1_h2vqrl.mp4" type="video/mp4"></source>
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474150/benny%20n%20beer/ep_3_cpcxhp.mp4" type="video/mp4"></source>
                 </video>
             </motion.div>
           </ScrollAnimationWrapper>
@@ -59,7 +59,7 @@ const Showcase = () => {
           <ScrollAnimationWrapper className="flex w-full">
             <motion.div className=" w-full p-4" variants={scrollAnimation}>
                 <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
-                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1668023915/benny%20n%20beer/ep1_h2vqrl.mp4" type="video/mp4"></source>
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474204/benny%20n%20beer/ep_4_ft7kax.mp4" type="video/mp4"></source>
                 </video>
             </motion.div>
           </ScrollAnimationWrapper>
@@ -71,7 +71,7 @@ const Showcase = () => {
           <ScrollAnimationWrapper className="flex w-full">
             <motion.div className=" w-full p-4" variants={scrollAnimation}>
                 <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
-                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1668023915/benny%20n%20beer/ep1_h2vqrl.mp4" type="video/mp4"></source>
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474259/benny%20n%20beer/ep_5_hzkj98.mp4" type="video/mp4"></source>
                 </video>
             </motion.div>
           </ScrollAnimationWrapper>
@@ -83,7 +83,67 @@ const Showcase = () => {
           <ScrollAnimationWrapper className="flex w-full">
             <motion.div className=" w-full p-4" variants={scrollAnimation}>
                 <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
-                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1668023915/benny%20n%20beer/ep1_h2vqrl.mp4" type="video/mp4"></source>
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474349/benny%20n%20beer/ep_6_fc9yqh.mp4" type="video/mp4"></source>
+                </video>
+            </motion.div>
+          </ScrollAnimationWrapper>
+        </div>
+        <div className="max-h-[1200px] my-12 min-w-fit">
+          <h5 className="text-2xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
+            Episode 7
+          </h5>
+          <ScrollAnimationWrapper className="flex w-full">
+            <motion.div className=" w-full p-4" variants={scrollAnimation}>
+                <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1674781323/benny%20n%20beer/ep_7_w8imxc.mp4" type="video/mp4"></source>
+                </video>
+            </motion.div>
+          </ScrollAnimationWrapper>
+        </div>
+        <div className="max-h-[1200px] my-12 min-w-fit">
+          <h5 className="text-2xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
+            Episode 8
+          </h5>
+          <ScrollAnimationWrapper className="flex w-full">
+            <motion.div className=" w-full p-4" variants={scrollAnimation}>
+                <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474424/benny%20n%20beer/ep_8_nexc2o.mp4" type="video/mp4"></source>
+                </video>
+            </motion.div>
+          </ScrollAnimationWrapper>
+        </div>
+        <div className="max-h-[1200px] my-12 min-w-fit">
+          <h5 className="text-2xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
+            Episode 9
+          </h5>
+          <ScrollAnimationWrapper className="flex w-full">
+            <motion.div className=" w-full p-4" variants={scrollAnimation}>
+                <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474512/benny%20n%20beer/ep_9_pe3jje.mp4" type="video/mp4"></source>
+                </video>
+            </motion.div>
+          </ScrollAnimationWrapper>
+        </div>
+        <div className="max-h-[1200px] my-12 min-w-fit">
+          <h5 className="text-2xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
+            Episode 10
+          </h5>
+          <ScrollAnimationWrapper className="flex w-full">
+            <motion.div className=" w-full p-4" variants={scrollAnimation}>
+                <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474590/benny%20n%20beer/ep_10_mz3ot4.mp4" type="video/mp4"></source>
+                </video>
+            </motion.div>
+          </ScrollAnimationWrapper>
+        </div>
+        <div className="max-h-[1200px] my-12 min-w-fit">
+          <h5 className="text-2xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
+            Episode 11
+          </h5>
+          <ScrollAnimationWrapper className="flex w-full">
+            <motion.div className=" w-full p-4" variants={scrollAnimation}>
+                <video controls className="rounded-md h-60 lg:h-60 shadow-2xl mx-auto transition-all hover:scale-110">
+                  <source src="https://res.cloudinary.com/cattleherd/video/upload/v1673474626/benny%20n%20beer/ep_11_mxpky3.mp4" type="video/mp4"></source>
                 </video>
             </motion.div>
           </ScrollAnimationWrapper>
