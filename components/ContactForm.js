@@ -45,10 +45,10 @@ const ContactForm = () => {
   };
 
   return (
-    <div id="contact" className="bg-tan-200 mx-auto rounded-md py-10 mb-10 w-[75%]">
+    <div id="contact" className="bg-tan-200 mx-auto rounded-md py-10 mb-10 w-[80%] sm:w-[60%] md:w-[50%]">
       <ScrollAnimationWrapper>
         <motion.div
-          className="md:w-2/3 md:mx-auto lg:w-1/2 lg:mx-auto px-10"
+          className="w-[85%] mx-auto"
           variants={scrollAnimation}
         >
           <div className="container m-auto">
