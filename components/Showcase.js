@@ -14,7 +14,7 @@ const Showcase = () => {
         id="feature"
       >
         <h3 className="text-3xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
-          Trailer
+          A Brief Histoy of Biodegradable...
         </h3>
         <ScrollAnimationWrapper className="flex w-full">
           <motion.div className=" w-full p-4" variants={scrollAnimation}>
@@ -35,7 +35,7 @@ const Showcase = () => {
         id="feature"
       >
         <h3 className="text-3xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
-          Works & Projects
+          BIODEGRADABLE!
         </h3>
         <div className="flex flex-col lg:flex-row lg:justify-around flex-wrap">
           <div className="max-h-[1200px] my-12 min-w-fit">
