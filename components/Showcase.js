@@ -13,7 +13,7 @@ const Showcase = () => {
         className=" mt-8 mb-6 sm:mt-14 sm:mb-14 px-6 sm:px-8 lg:px-16"
         id="feature"
       >
-        <h3 className="text-3xl text-center lg:text-4xl font-medium leading-relaxed text-tan-100">
+        <h3 className="text-3xl text-center pb-10 lg:text-4xl font-medium leading-relaxed text-tan-100">
           A Brief Histoy of Biodegradable...
         </h3>
         <ScrollAnimationWrapper className="flex w-full">
