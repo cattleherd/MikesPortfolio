@@ -5,7 +5,7 @@ import Twitter from "../../public/assets/Icon/twitter.svg";
 import Instagram from "../../public/assets/Icon/instagram.svg";
 const Footer = () => {
   return (
-    <div className="bg-blue-100 text-tan-100 py-8 h-10 w-full text-center">© 2023 Michael K. McAuley Productions All Rights Reserved.</div>
+    <div className="bg-blue-100 text-tan-100 py-8 h-10 w-full text-center">© 2023 Michael K. McAuley Productions</div>
   );
 };
 
