@@ -41,11 +41,11 @@ const Hero = ({
               </h3>
             </motion.div>
           </ScrollAnimationWrapper>
-          <ScrollAnimationWrapper className="relative rounded-full max-w-[380px] h-[380px] mx-auto bg-tan-100 z-10 flex justify-center items-center">
+          <ScrollAnimationWrapper className="relative rounded-full max-w-[360px] h-[360px] mx-auto bg-tan-100 z-10 flex justify-center items-center">
             <motion.div variants={scrollAnimation}>
               <img
                 src='/assets/1.png'
-                className="max-h-[370px] max-w-[370px] mr-16"
+                className="max-h-[450px] max-w-[450px] pr-16"
               />
             </motion.div>
           </ScrollAnimationWrapper>
