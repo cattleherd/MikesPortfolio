@@ -41,22 +41,14 @@ const Hero = ({
               </h3>
             </motion.div>
           </ScrollAnimationWrapper>
-          <ScrollAnimationWrapper className="rounded-full w-[400px] h-[400px] mx-auto divide-black-500 bg-tan-100 z-10">
-              <motion.div
-                variants={scrollAnimation}
-              >
-                <div className="pb-2 pr-16">
-                    <img
-                      src='/assets/1.png'
-                      className=" w-[400px] h-[350px]"
-                    />
-                </div>
-              </motion.div>
+          <ScrollAnimationWrapper className="relative rounded-full max-w-[380px] h-[380px] mx-auto bg-tan-100 z-10 flex justify-center items-center">
+            <motion.div variants={scrollAnimation}>
+              <img
+                src='/assets/1.png'
+                className="max-h-[370px] max-w-[370px] mr-16"
+              />
+            </motion.div>
           </ScrollAnimationWrapper>
-          <div
-            className="absolute bg-black-600 opacity-5 w-11/12 roudned-lg h-64 sm:h-48 top-0 mt-8 mx-auto left-0 right-0"
-            style={{ filter: "blur(114px)" }}
-          ></div>
         </div>
       </div>
     </>
