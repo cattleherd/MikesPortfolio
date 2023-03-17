@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <div className="bg-blue-200">
       <Component {...pageProps} />
-      <Analytics/>
+      <Analytics />
     </div>
   );
 }
